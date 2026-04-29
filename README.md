@@ -5,7 +5,7 @@ Ben Stearns - [@bstearns07](https://github.com/bstearns07)
 
 Taylor Rath - [@Tarath01](https://github.com/tarath01)
 
-📅 Date: 2/10/2026
+📅 **Last Updated:** 2/10/2026
 
 ## 📑 Table of Contents
 - 📌 [Summary](#-summary)
