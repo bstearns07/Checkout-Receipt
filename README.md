@@ -10,6 +10,7 @@ Taylor Rath - [@Tarath01](https://github.com/tarath01)
 ## 📑 Table of Contents
 - 📌 [Summary](#-summary)
 - ⭐ [How It Works](#-how-it-works)
+- 🚀 [Live Demo](#-live-demo)
 - ✨ [Features](#-features)
 - 🧰 [Tech Stack](#-tech-stack)
 - 🔧 [Development Tools](#-development-tools)
@@ -43,6 +44,13 @@ The purpose of this program is to simulate a simple grocery check out as a web a
    - Change due  
 4. 📄 A formatted receipt is generated  
 5. ⚡ Receipt is displayed via a browser alert  
+
+---
+
+## 🚀 Live Demo
+> ⬇️ **Click the link below to open the app in your browser and try it yourself!**⬇️
+
+👉 [![Open Demo](https://img.shields.io/badge/▶%20Open%20Live%20Demo-ff4b4b?style=for-the-badge)](https://bstearns07.github.io/Checkout-Receipt/)
 
 ---
 
