@@ -1,8 +1,9 @@
 # Simple Checkout
 
 ## 👤 Author
-Ben Stearns - [@bstearns07](https://github.com/bstearns07)<br>
-[@Tarath01](https://github.com/tarath01) Taylor Rath
+Ben Stearns - [@bstearns07](https://github.com/bstearns07)
+
+Taylor Rath - [@Tarath01](https://github.com/tarath01)
 
 📅 Date: 2/10/2026
 
